@@ -147,4 +147,33 @@ section.jobs {
   .technologies {
     flex-wrap: wrap;
   }
+
+  .job:first-child {
+    position: relative;
+  }
+
+  .job:first-child::before {
+    position: absolute;
+    content: "";
+    top: 0;
+    left: 0;
+    width: 4px;
+    height: 100%;
+    border-radius: 5px;
+    background: var(--desaturated-dark-cyan);
+  }
+
+  .job:nth-child(2) {
+    position: relative;
+  }
+  .job:nth-child(2)::before {
+    position: absolute;
+    content: "";
+    top: 0;
+    left: 0;
+    width: 4px;
+    height: 100%;
+    border-radius: 5px;
+    background: var(--desaturated-dark-cyan);
+  }
 }
