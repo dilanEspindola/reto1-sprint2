@@ -1,0 +1,104 @@
+{
+    "jobs": [
+        {
+            "id": 1,
+            "company": "photosnap",
+            "position": "senior frontend developer",
+            "timePublication": "1d ago",
+            "time": "full time",
+            "ubication": "USA only",
+            "technologies": ["frontend", "senior", "HTML", "CSS", "JavaScript"],
+            "image": "https://res.cloudinary.com/dp9zv16le/image/upload/v1650091172/reto1-sptrint2/photosnap_jn88mm.svg"
+        },
+        {
+            "id": 2,
+            "company": "manage",
+            "position": "fullstack developer",
+            "timePublication": "1d ago",
+            "time": "part time",
+            "ubication": "remote",
+            "technologies": ["fullstack", "midweight", "python", "react"],
+            "image": "https://res.cloudinary.com/dp9zv16le/image/upload/v1650091172/reto1-sptrint2/manage_zs9kxt.svg"
+        },
+        {
+            "id": 3,
+            "company": "account",
+            "position": "junior frontend developer",
+            "timePublication": "2d ago",
+            "time": "part time",
+            "ubication": "USA only",
+            "technologies": ["frontend", "junior", "react", "sass", "JavaScript"],
+            "image": "https://res.cloudinary.com/dp9zv16le/image/upload/v1650091170/reto1-sptrint2/account_ojnwdd.svg"
+        },
+        {
+            "id": 4,
+            "company": "MyHome",
+            "position": "junior frontend developer",
+            "timePublication": "5d ago",
+            "time": "contract time",
+            "ubication": "USA only",
+            "technologies": ["frontend", "junior", "CSS", "JavaScript"],
+            "image": "https://res.cloudinary.com/dp9zv16le/image/upload/v1650091172/reto1-sptrint2/myhome_vfzdp2.svg"
+        },
+        {
+            "id": 5,
+            "company": "loop studios",
+            "position": "software engineer",
+            "timePublication": "1w ago",
+            "time": "full time",
+            "ubication": "Worldwide",
+            "technologies": ["fullstack", "Midweight", "JavaScript", "sass", "ruby"],
+            "image": "https://res.cloudinary.com/dp9zv16le/image/upload/v1650091172/reto1-sptrint2/loop-studios_nmvgvw.svg"
+        },
+        {
+            "id": 6,
+            "company": "FaceIt",
+            "position": "backend junior developer",
+            "timePublication": "2w ago",
+            "time": "full time",
+            "ubication": "UK only",
+            "technologies": ["backend", "junior", "ruby", "RoR"],
+            "image": "https://res.cloudinary.com/dp9zv16le/image/upload/v1650091170/reto1-sptrint2/faceit_g1xc7e.svg"
+        },
+        {
+            "id": 7,
+            "company": "Shortly",
+            "position": "junior developer",
+            "timePublication": "2w ago",
+            "time": "full time",
+            "ubication": "Wordlwide",
+            "technologies": ["frontend", "junior", "HTML", "sass", "JavaScript"],
+            "image": "https://res.cloudinary.com/dp9zv16le/image/upload/v1650091172/reto1-sptrint2/shortly_wazeib.svg"
+        },
+        {
+            "id": 8,
+            "company": "Insure",
+            "position": "junior frontend developer",
+            "timePublication": "3w ago",
+            "time": "full time",
+            "ubication": "Wordlwide",
+            "technologies": ["frontend", "junior", "Vue", "JavaScript", "sass"],
+            "image": "https://res.cloudinary.com/dp9zv16le/image/upload/v1650091172/reto1-sptrint2/insure_ao9kjb.svg"
+        },
+        {
+            "id": 9,
+            "company": "Eyecam Co.",
+            "position": "fullstack engineer",
+            "timePublication": "3w ago",
+            "time": "full time",
+            "ubication": "Wordlwide",
+            "technologies": ["fullstack", "midweight", "JavaScript", "Django", "Python"],
+            "image": "https://res.cloudinary.com/dp9zv16le/image/upload/v1650091170/reto1-sptrint2/eyecam-co_byjhbo.svg"
+        },
+        {
+            "id": 10,
+            "company": "The Air Filter Company",
+            "position": "frontend developer",
+            "timePublication": "1mo ago",
+            "time": "part time",
+            "ubication": "Wordlwide",
+            "technologies": ["frontend", "junior", "react", "sass", "JavaScript"],
+            "image": "https://res.cloudinary.com/dp9zv16le/image/upload/v1650091173/reto1-sptrint2/the-air-filter-company_ba548i.svg"
+        }
+    ]
+}

@@ -1,0 +1,6 @@
+header {
+  height: 150px;
+  width: 100%;
+  background: var(--desaturated-dark-cyan);
+  background-image: url("https://res.cloudinary.com/dp9zv16le/image/upload/v1650091170/reto1-sptrint2/bg-header-desktop_zx3wrz.svg");
+}
