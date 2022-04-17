@@ -83,6 +83,7 @@ section.jobs {
   padding: 10px;
   border-radius: 6px;
   text-transform: capitalize;
+  cursor: pointer;
 }
 
 .job:first-child {
@@ -159,7 +160,8 @@ section.jobs {
     left: 0;
     width: 4px;
     height: 100%;
-    border-radius: 5px;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
     background: var(--desaturated-dark-cyan);
   }
 
@@ -173,7 +175,8 @@ section.jobs {
     left: 0;
     width: 4px;
     height: 100%;
-    border-radius: 5px;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
     background: var(--desaturated-dark-cyan);
   }
 }

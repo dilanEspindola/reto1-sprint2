@@ -2,6 +2,7 @@ import { JobsLists } from "./JobsLists";
 import listaEmpleos from "../jobs.json";
 
 import "../styles/jobs.css";
+import "../styles/filter.css";
 import "../styles/app.css";
 
 export const JobsSection = () => {

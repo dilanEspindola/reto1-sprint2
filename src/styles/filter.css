@@ -1,0 +1,37 @@
+.filter {
+  position: relative;
+  top: -80px;
+  background: #fff;
+  border-radius: 5px;
+  box-shadow: 0px 0px 18px 1px rgba(0, 0, 0, 0.025),
+    1px 10px 8px 1px rgba(0, 0, 0, 0.075);
+  padding: 20px 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+.filter .showItems {
+  background: hsla(180, 29%, 50%, 0.1);
+  color: var(--desaturated-dark-cyan);
+  text-transform: capitalize;
+  padding: 10px;
+}
+
+.items {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+.clear {
+  float: right;
+  color: var(--desaturated-dark-cyan);
+}
+
+.clear:hover {
+  text-decoration: underline;
+  cursor: pointer;
+}
