@@ -49,7 +49,6 @@ export const JobsLists = ({ jobslist }) => {
         job.technologies.map((t) => {
           if (e === t) {
             filter.push(job);
-            console.log(filter);
           }
         });
       });
