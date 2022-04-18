@@ -13,11 +13,18 @@
   gap: 20px;
 }
 
+.item {
+  display: flex;
+  align-items: center;
+}
+
 .filter .showItems {
   background: hsla(180, 29%, 50%, 0.1);
   color: var(--desaturated-dark-cyan);
   text-transform: capitalize;
   padding: 10px;
+  border-top-left-radius: 6px;
+  border-bottom-left-radius: 6px;
 }
 
 .items {
@@ -33,5 +40,15 @@
 
 .clear:hover {
   text-decoration: underline;
+  cursor: pointer;
+}
+
+.remove {
+  background: var(--desaturated-dark-cyan);
+  padding: 10px;
+  width: 16px;
+  height: 16px;
+  border-top-right-radius: 6px;
+  border-bottom-right-radius: 6px;
   cursor: pointer;
 }

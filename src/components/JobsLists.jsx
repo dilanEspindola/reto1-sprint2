@@ -94,13 +94,15 @@ export const JobsLists = ({ jobslist }) => {
           <div className="filter">
             <div className="items">
               {state.map((tech, index) => (
-                <p
-                  className="showItems"
-                  key={index}
-                  onClick={() => deleteElement(index)}
-                >
-                  {tech}
-                </p>
+                <div className="item" key={index}>
+                  <p className="showItems">{tech}</p>
+                  <img
+                    src="https://res.cloudinary.com/dp9zv16le/image/upload/v1650091171/reto1-sptrint2/icon-remove_k4fhs0.svg"
+                    alt="remove"
+                    className="remove"
+                    onClick={() => deleteElement(index)}
+                  />
+                </div>
               ))}
             </div>
             <p className="clear" onClick={() => clearAll()}>
